@@ -1,0 +1,2 @@
+# LearnDS
+scalar-course
